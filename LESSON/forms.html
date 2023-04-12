@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Forms</title>
+    </head>
+    <body>
+        <h1>We are going to try out some forms</h1>
+        <p>
+            <ol>
+                <li>Text</li>
+                <li>Password</li>
+                <li>Checkbox</li>
+                <li>Radio</li>
+                <li>Textarea</li>
+                <li>Select</li>
+            </ol>
+        </p><br><br>
+        <form method="POST">
+            <h2>Text : Password : Submit</h2>
+            <label for="username">Username:</label>
+            <input type="text" name="username"><br>
+
+            <label for="password">Password:</label>
+            <input type="password">
+            <input type="submit">
+            <br><br>
+
+            <h2>Check boxes</h2>
+            <input type="checkbox" name="dog" value="Dog">
+            <label for="dog">I own a dog</label><br>
+            <input type="checkbox" name="cat" value="Cat">
+            <label for="cat">I own a cat</label>
+            <br><br>
+
+            <h2>Radio buttons</h2>
+            <input type="radio" name="orientation" value="Right">
+            <label for="right">I am right handed</label><br>
+            <input type="radio" name="orientation" value="Left">
+            <label for="left">I am left handed</label>
+            <br><br>
+
+            <h2>Multiline text field</h2>
+            <textarea name="multiline" rows="5">Multiline textfield:</textarea><br><br>
+
+            <h2>Select dropdown</h2>
+            <select name="food">
+                <option value="chocolate">Chocolate</option>
+                <option value="ice_cream">Ice-cream</option>
+            </select>
+        </form>
+    </body>
+</html>
