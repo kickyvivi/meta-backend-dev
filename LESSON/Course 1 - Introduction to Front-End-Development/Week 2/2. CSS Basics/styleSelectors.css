@@ -1,0 +1,29 @@
+h1 {
+    background-color: aquamarine;
+}
+
+#intro {
+    font-size: large;
+    color: darkblue;
+    background-color: bisque;
+}
+
+.breakpoint {
+    text-align: center;
+}
+
+p.breakpoint {
+    background-color:chartreuse;
+}
+
+#blog div h1 {
+    font-style: italic;
+}
+
+#blog > h1 {
+    color: brown;
+}
+
+a:hover {
+    background-color: dimgrey;
+}
