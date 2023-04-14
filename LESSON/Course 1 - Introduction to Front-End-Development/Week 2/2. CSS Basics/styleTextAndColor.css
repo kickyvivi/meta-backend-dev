@@ -1,0 +1,90 @@
+p.rgb {
+    color: rgb(255, 0, 0); 
+}
+
+p.rgba {
+    color: rgba(0, 128, 0, 128);
+}
+
+p.hsl {
+    color: hsl(240, 100%, 25%);
+}
+
+p.hex {
+    color: #AA4A44;
+}
+
+p.black {
+    color:black;
+}
+
+p.silver {
+    color:silver;
+}
+
+p.gray {
+    color:gray;
+}
+
+p.maroon {
+    color:maroon;
+}
+
+p.red {
+    color:red;
+}
+
+p.purple {
+    color:purple;
+}
+
+p.fuchsia {
+    color:fuchsia;
+}
+
+p.green {
+    color:green;
+}
+
+p.lime {
+    color:lime;
+}
+
+p.olive {
+    color:olive;
+}
+
+p.teal {
+    color:teal;
+}
+
+p.color {
+    color: aqua;
+}
+
+p.font {
+    font-family:'Courier New', Courier, monospace
+}
+
+p.size {
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+p.transformation {
+    text-transform: uppercase;
+}
+
+p.decoration {
+    text-decoration-line: underline;
+    text-decoration-color: red;
+    text-decoration-style: solid;
+    text-decoration-thickness: 5px;
+}
+
+h1 {
+    background-color: gold;
+}
+h2 {
+    text-decoration: underline red 2px dotted;
+}
