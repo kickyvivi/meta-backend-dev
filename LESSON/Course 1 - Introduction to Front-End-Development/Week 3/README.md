@@ -42,3 +42,31 @@
 ## Bootstrap components:
 - Pre made set of UI elements and styles
 - E.g.: Alert messages, navigation menu 
+- We are using the card and alert components in the `bootstrap-components.html`
+    - card
+    - card-img-top
+    - card-title
+    - card-text
+    - alert alert-info
+    - role="alert"
+    - badge bg-primary
+
+## Using Bootstrap documentation:
+- [Documentation](https://getbootstrap.com/docs)
+- Sample added at the end of [bootstrap-components.html](./Intro%20to%20UI%20Frameworks%20and%20Libraries/bootstrap-components.html)
+
+## Other CSS frameworks and libraries
+- Foundation - [Official website](https://get.foundation/)
+    - Similar to bootstrap
+    - One prominent feature of Foundation is that it can be used to style content for sending via email.
+- Pure.css - [Official website](https://purecss.io/)
+    -  It is designed to be minimal in file size
+    - Less loading time
+- Tailwind CSS - [Official website](https://tailwindcss.com/)
+    - Utility based approach
+    - This means that the framework provides many CSS classes with a single purpose
+- UIKit - [Official website](https://getuikit.com/)
+    - UIKit is a lightweight CSS framework featuring a small set of responsive components. Its simple design allows developers to easily customize the style rules and visuals.
+- MVP.css - [Official website](https://andybrewer.github.io/mvp/)
+    - MVP.css is a small CSS library that automatically styles HTML elements without needing to apply CSS classes to them. 
+    - Minimal Viable Product, a product with sufficient features to demo to customers or other business stakeholders.
