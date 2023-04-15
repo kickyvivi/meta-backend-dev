@@ -35,4 +35,10 @@
 - Danger - Displays the alert in Red
 
 ## Bootstrap grid:
-- 12 columns available
+- 12 columns available : fluid or fixed
+- container is the root element
+- width is determined based on current responsive breakpoint
+
+## Bootstrap components:
+- Pre made set of UI elements and styles
+- E.g.: Alert messages, navigation menu 
