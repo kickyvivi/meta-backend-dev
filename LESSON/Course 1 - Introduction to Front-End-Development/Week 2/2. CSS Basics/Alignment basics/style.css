@@ -1,0 +1,32 @@
+.parent {
+    border: 4px solid red;
+}
+
+.child {
+    width : 50%;
+    padding: 20px;
+    border:4px solid green;
+    margin:auto;
+}
+
+.beta {
+    display:block;
+    width:25%;
+    padding:20px;
+    border: 4px dotted mediumseagreen;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom:  20px;
+}
+
+.gamma {
+    float:right;
+}
+
+.sample {
+    width:75%;
+    padding: 20px;
+    border:4px dotted teal;
+    margin:auto;
+}
