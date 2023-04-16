@@ -105,7 +105,7 @@
         - Different pagesd are broken down into templates/views
         - HTML is updated using the JSON returned by web server
 
-### What is Reacts?
+### What is React?
 - Front end develeopment
 - Working with components
 - Open source library
